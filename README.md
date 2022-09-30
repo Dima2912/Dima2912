@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dima
+- 👋 Hi, I’m Dima a student of the course developer-programmer
 
 
 
